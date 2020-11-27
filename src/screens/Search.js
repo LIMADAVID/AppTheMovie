@@ -96,6 +96,6 @@ const styles = StyleSheet.create({
     height: '100%',
   },
   background: {    
-    paddingTop: Constants.statusBarHeight
+    paddingTop: Constants.statusBarHeight,
   },
 });
